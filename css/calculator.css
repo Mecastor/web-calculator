@@ -1,0 +1,29 @@
+table {
+    background-color: black;
+    border: 0.1em solid black;
+    border-collapse: collapse;
+    margin-left: 2.5%;
+    width: 95%;
+}
+
+table caption {
+    background-color: black;
+    border: 0.1em solid black;
+    font-size: 1.5em;
+}
+
+table caption input {
+    text-align: right; 
+}
+
+th, td {
+    border: 0.1em solid black;
+    padding: 0.5em;
+    text-align: right;
+}
+
+input {
+    font-size: 2em;
+    height: 2.5em;
+    width: 95%;
+}
